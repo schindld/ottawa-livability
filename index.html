@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<meta charset="utf-8">
+		<title>Ottawa Livability Map</title>
+		<link href="./style.css" rel="stylesheet">
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	</head>
+	<body>
+		<div id="map-canvas"></div>
+		<div id="menu">
+			<label for="groceryLayer">Grocery Stores </label><input type="checkbox" id="groceryLayer" onclick="olm.toggleLayer(olm.groceryLayer)" /><br/>
+			<label for="placesLayer">Important Places </label><input type="checkbox" id="placesLayer" onclick="olm.toggleLayer(olm.placesLayer)" checked/><br/>
+			<label for="schoolLayer">Elementary Schools </label><input type="checkbox" id="schoolLayer" onclick="olm.toggleLayer(olm.schoolLayer)" checked/><br/>
+			<label for="transitLayer">Public Transit </label><input type="checkbox" id="transitLayer" onclick="olm.toggleLayer(olm.transitLayer)" /><br/>
+		</div>
+		<div id="legend">
+			
+		</div>
+		<script src="./map.js"></script>
+	</body>
+</html>

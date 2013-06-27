@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map-canvas {
+  height: 100%;
+}
+
+#menu {
+  position: absolute;
+  top: 55px;
+  right: 5px;
+  padding: 5px 8px;
+  background: #fff;
+  border: 1px solid #666;
+  border-color: #999 #666 #666 #999;
+  text-align: right;
+  box-shadow: 1px 1px 3px 1px #999;
+}
+
+@media print {
+  html, body {
+    height: auto;
+  }
+  #map-canvas {
+    height: 650px;
+  }
+}

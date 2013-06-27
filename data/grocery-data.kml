@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Ottawa Livability - Grocery Stores</name>
+		<description></description>
+		<Style id='icon-1101'><!-- supermarket -->
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>markers/supermarket.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>Grocery Stores</name>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Hartman's Your Independent Grocer</name>
+				<Point>
+					<coordinates>-75.69636200000002,45.415248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.734017,45.361796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Food Basics</name>
+				<Point>
+					<coordinates>-75.63687299999998,45.426422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Farm Boy</name>
+				<Point>
+					<coordinates>-75.66976399999999,45.381285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.68383900000003,45.429741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.74076400000001,45.397962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Food Basics</name>
+				<Point>
+					<coordinates>-75.73898400000002,45.386195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>FreshCo</name>
+				<Point>
+					<coordinates>-75.65433000000002,45.431538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Country Grocer The</name>
+				<Point>
+					<coordinates>-75.68824799999999,45.367778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.68699200000003,45.428378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.67571599999997,45.439355,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.63923199999999,45.428012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro Glebe</name>
+				<Point>
+					<coordinates>-75.68880300000001,45.403606,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.74076400000001,45.397962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro</name>
+				<Point>
+					<coordinates>-75.9074,45.336589,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.81767200000002,45.32879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.77982199999997,45.325307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.721071,45.274449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.78685899999999,45.365203,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.72969999999998,45.344942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.67117100000002,45.351494,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro</name>
+				<Point>
+					<coordinates>-75.64510899999999,45.354915,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.61912999999998,45.389285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro (Metro)</name>
+				<Point>
+					<coordinates>-75.536113,45.480761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro</name>
+				<Point>
+					<coordinates>-75.51802800000002,45.450274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Place D'Orléans Dr</name>
+				<Point>
+					<coordinates>-75.51650999999998,45.4797145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>No Frills</name>
+				<Point>
+					<coordinates>-75.52260999999999,45.476714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Dessureault Independent Grocer</name>
+				<Point>
+					<coordinates>-75.52431100000001,45.45992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Real Canadian Superstore</name>
+				<Point>
+					<coordinates>-75.49440400000003,45.45662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Sobeys</name>
+				<Point>
+					<coordinates>-75.45565599999998,45.469464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro Blackburn Market (Metro)</name>
+				<Point>
+					<coordinates>-75.564076,45.431881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro Ogilvie Market (Metro)</name>
+				<Point>
+					<coordinates>-75.59825999999998,45.445425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Costco Wholesale</name>
+				<Point>
+					<coordinates>-75.603139,45.4145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Food Basics</name>
+				<Point>
+					<coordinates>-75.64460099999997,45.380034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Farm Boy</name>
+				<Point>
+					<coordinates>-75.66976399999999,45.381285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Costco Nepean</name>
+				<Point>
+					<coordinates>-75.723027,45.337893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaw Supermarkets Limited</name>
+				<Point>
+					<coordinates>-75.68814800000001,45.410036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Real Canadian Superstore</name>
+				<Point>
+					<coordinates>-75.74805500000002,45.394541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Farm Boy</name>
+				<Point>
+					<coordinates>-75.73062199999998,45.345775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.76243699999998,45.351256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>McDaniel's Independent Grocer</name>
+				<Point>
+					<coordinates>-75.73055099999999,45.351482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>FreshCo</name>
+				<Point>
+					<coordinates>-75.83563700000002,45.319703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Farm Boy Inc</name>
+				<Point>
+					<coordinates>-75.72406000000001,45.288594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Food Basics</name>
+				<Point>
+					<coordinates>-75.75670200000002,45.284982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Sobeys</name>
+				<Point>
+					<coordinates>-75.747319,45.274123,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Your Independent Grocer</name>
+				<Point>
+					<coordinates>-75.74629299999998,45.268476,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.74447700000002,45.267188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws - Ottawa</name>
+				<Point>
+					<coordinates>-75.62420299999997,45.399675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Costco Wholesale</name>
+				<Point>
+					<coordinates>-75.603139,45.4145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Boushey's Fruit Market Ltd</name>
+				<Point>
+					<coordinates>-75.68861600000002,45.415664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Farm Boy</name>
+				<Point>
+					<coordinates>-75.921673,45.310599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.91331600000001,45.309596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Food Basics</name>
+				<Point>
+					<coordinates>-75.89529900000002,45.312609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Laura's Your Independent Grocer</name>
+				<Point>
+					<coordinates>-75.87724000000003,45.301311,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Farm Boy</name>
+				<Point>
+					<coordinates>-75.88773400000002,45.299304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Sobeys</name>
+				<Point>
+					<coordinates>-75.89582000000001,45.292324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Superstore</name>
+				<Point>
+					<coordinates>-75.86679700000002,45.283142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Brown's Your Independent Grocer</name>
+				<Point>
+					<coordinates>-75.929955,45.267937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Maxi</name>
+				<Point>
+					<coordinates>-75.732528,45.438691,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Provigo</name>
+				<Point>
+					<coordinates>-75.74131699999998,45.460249,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Provigo</name>
+				<Point>
+					<coordinates>-75.71866699999998,45.470502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>IGA Extra</name>
+				<Point>
+					<coordinates>-75.73949800000003,45.472877,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Metro Cité des Jeunes</name>
+				<Point>
+					<coordinates>-75.75464499999998,45.449134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.76599799999997,45.435719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Loblaws</name>
+				<Point>
+					<coordinates>-75.82343400000002,45.397259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Super C Aylmer</name>
+				<Point>
+					<coordinates>-75.835552,45.395606,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>Super C Hull (Du Plateau)</name>
+				<Point>
+					<coordinates>-75.77328399999999,45.434151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1101</styleUrl>
+				<name>IGA Gatineau</name>
+				<Point>
+					<coordinates>-75.67562499999997,45.504132,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
