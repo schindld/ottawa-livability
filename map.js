@@ -16,16 +16,16 @@
 		};
 		olm.map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 		olm.groceryLayer = new google.maps.KmlLayer({
-			url: 'https://sites.google.com/site/daveschindler/home/files/grocery-data.kmz?attredirects=0&d=1'
+			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/grocery-data.kml'
 		});
 		olm.placesLayer = new google.maps.KmlLayer({
-			url: 'https://sites.google.com/site/daveschindler/home/files/places-data.kmz?attredirects=0&d=1'
+			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/places-data.kml'
 		});
 		olm.schoolLayer = new google.maps.KmlLayer({
-			url: 'https://sites.google.com/site/daveschindler/home/files/school-data.kmz?attredirects=0&d=1'
+			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/school-data.kml'
 		});
 		olm.transitLayer = new google.maps.KmlLayer({
-			url: 'https://sites.google.com/site/daveschindler/home/files/transit-data.kmz?attredirects=0&d=1'
+			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/transit-data.kml'
 		});
 		//olm.groceryLayer.setMap(olm.map);
 		olm.placesLayer.setMap(olm.map);
