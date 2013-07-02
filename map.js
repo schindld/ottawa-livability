@@ -9,6 +9,7 @@
 	olm.placesLayer = {};
 	olm.schoolLayer = {};
 	olm.transitLayer = {};
+    olm.wardsLayer = {};
 	
 	olm.initialize = function() {
 		var mapOptions = {
@@ -27,10 +28,14 @@
 		olm.transitLayer = new google.maps.KmlLayer({
 			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/transit-data.kml'
 		});
+    	olm.wardsLayer = new google.maps.KmlLayer({
+			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/wards-data.kml'
+		});
 		//olm.groceryLayer.setMap(olm.map);
 		olm.placesLayer.setMap(olm.map);
 		olm.schoolLayer.setMap(olm.map);
 		//olm.transitLayer.setMap(olm.map);
+        olm.wardsLayer.setMap(olm.map);
 		google.maps.event.addListenerOnce(olm.map, 'tilesloaded', olm.onKmlLoad);
 		
 	}
@@ -40,6 +45,7 @@
 		olm.placesLayer.setOptions({'preserveViewport':true});
 		olm.schoolLayer.setOptions({'preserveViewport':true});
 		olm.transitLayer.setOptions({'preserveViewport':true});
+        olm.wardsLayer.setOptions({'preserveViewport':true});
 	};
 
 	google.maps.event.addDomListener(window, 'load', olm.initialize);
