@@ -31,7 +31,7 @@
 		olm.transitLayer = new google.maps.KmlLayer({
 			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/transit-data.kml'
 		});
-        olm.wardsLayer.setMap(olm.map);
+        //olm.wardsLayer.setMap(olm.map);
 		//olm.groceryLayer.setMap(olm.map);
 		olm.placesLayer.setMap(olm.map);
 		olm.schoolLayer.setMap(olm.map);
