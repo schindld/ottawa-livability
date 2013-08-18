@@ -4648,7 +4648,7 @@ Percentile: 0.394218134]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -4719,7 +4719,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -4790,7 +4790,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -4855,13 +4855,13 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>geometry</displayName>
-						<value>-75.687752,45.363914</value>
+						<value>-75.66548,45.35539</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow (but high)</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -4932,7 +4932,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5003,7 +5003,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>red</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5074,7 +5074,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange-yellow (varies)</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5145,7 +5145,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>red</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5216,7 +5216,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5287,7 +5287,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>green</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5358,7 +5358,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5429,7 +5429,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>red</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5500,7 +5500,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5571,7 +5571,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>red</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5642,7 +5642,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5713,7 +5713,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5784,7 +5784,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5819,7 +5819,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Trend</displayName>
-						<value></value>
+						<value>-</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -5855,7 +5855,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -5997,7 +5997,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow-orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6068,7 +6068,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>yellow</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6210,7 +6210,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>red</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6281,7 +6281,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6423,7 +6423,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>orange</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6494,7 +6494,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>To protect against disclosure of personal information associated with individual students results for this school are not being provided.</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6565,7 +6565,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>green</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[
@@ -6707,7 +6707,7 @@ Percentile: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>Percentile</displayName>
-						<value></value>
+						<value>varies widely by year</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[

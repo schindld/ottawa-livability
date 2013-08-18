@@ -20,6 +20,61 @@ html, body {
   box-shadow: 1px 1px 3px 1px #999;
 }
 
+#legend {
+    position: absolute;
+    bottom: 25px;
+    right: 5px;
+    padding: 5px 8px;
+    background: #fff;
+    border: 1px solid #666;
+    border-color: #999 #666 #666 #999;
+    box-shadow: 1px 1px 3px 1px #999;
+    height: 250px;
+    height: calc(100% - 225px);
+    overflow-y: auto;
+}
+
+#legend h1 {
+    font-size: 105%;
+    margin: 3px;
+}
+
+#legend p {
+    margin: 0;
+}
+
+#legend dl {
+    margin: 0;
+}
+
+dt {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    text-align: center;
+    text-indent: -1000em; /* hide it from sight, but not screen readers */
+    overflow: hidden;
+}
+
+dd {
+    display: inline;
+    margin-left: 10px;
+}
+
+dd:after { content:"\A"; white-space:pre; }
+
+#legend dt:nth-child(1) {background: url('data/markers/school-green.png') no-repeat center center;}
+#legend dt:nth-child(3) {background: url('data/markers/school-olive.png') no-repeat center center;}
+#legend dt:nth-child(5) {background: url('data/markers/school-orange.png') no-repeat center center;}
+#legend dt:nth-child(7) {background: url('data/markers/school-red.png') no-repeat center center;}
+#legend dt:nth-child(9) {background: url('data/markers/school-black.png') no-repeat center center;}
+#legend dt:nth-child(11) {background: url('data/markers/supermarket.png') no-repeat center center;}
+#legend dt:nth-child(13) {background: url('data/markers/home.png') no-repeat center center;}
+#legend dt:nth-child(15) {background: url('data/markers/office.png') no-repeat center center;}
+#legend dt:nth-child(17) {background: url('data/markers/dance.png') no-repeat center center;}
+#legend dt:nth-child(19) {background: url('data/markers/train.png') no-repeat center center;}
+
 @media print {
   html, body {
     height: auto;
