@@ -26,7 +26,7 @@
 			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/places-data.kml'
 		});
 		olm.schoolLayer = new google.maps.KmlLayer({
-			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/school-data2.kml'
+			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/school-data.kml'
 		});
 		olm.transitLayer = new google.maps.KmlLayer({
 			url: 'https://github.com/schindld/ottawa-livability/raw/master/data/transit-data.kml'

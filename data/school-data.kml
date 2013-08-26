@@ -4660,7 +4660,7 @@ Enrolment: 517<br/>
 % Full: 93.41<br/>
 Opened: <br/>
 geometry: -75.752129,45.360394<br/>
-Percentile: ]]></description>
+Percentile: yellow]]></description>
 				<Point>
 					<coordinates>-75.752129,45.360394,0.0</coordinates>
 				</Point>
@@ -4731,7 +4731,7 @@ Enrolment: 598<br/>
 % Full: 129.16<br/>
 Opened: 1969<br/>
 geometry: -75.763992,45.281136<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.763992,45.281136,0.0</coordinates>
 				</Point>
@@ -4802,7 +4802,7 @@ Enrolment: 421<br/>
 % Full: 60.25<br/>
 Opened: <br/>
 geometry: -75.810394,45.349598<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.810394,45.349598,0.0</coordinates>
 				</Point>
@@ -4873,7 +4873,7 @@ Enrolment: 346<br/>
 % Full: 93.27<br/>
 Opened: <br/>
 geometry: -75.687752,45.363914<br/>
-Percentile: ]]></description>
+Percentile: yellow (but high)]]></description>
 				<Point>
 					<coordinates>-75.687752,45.363914,0.0</coordinates>
 				</Point>
@@ -4944,7 +4944,7 @@ Enrolment: 311<br/>
 % Full: 55.68<br/>
 Opened: <br/>
 geometry: -75.825874,45.324623<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.825874,45.324623,0.0</coordinates>
 				</Point>
@@ -5015,7 +5015,7 @@ Enrolment: 177<br/>
 % Full: 50.64<br/>
 Opened: <br/>
 geometry: -75.705582,45.408203<br/>
-Percentile: ]]></description>
+Percentile: red]]></description>
 				<Point>
 					<coordinates>-75.705582,45.408203,0.0</coordinates>
 				</Point>
@@ -5086,7 +5086,7 @@ Enrolment: 311<br/>
 % Full: 74.52<br/>
 Opened: <br/>
 geometry: -75.622726,45.437038<br/>
-Percentile: ]]></description>
+Percentile: orange-yellow (varies)]]></description>
 				<Point>
 					<coordinates>-75.622726,45.437038,0.0</coordinates>
 				</Point>
@@ -5157,7 +5157,7 @@ Enrolment: 201<br/>
 % Full: 46.4<br/>
 Opened: <br/>
 geometry: -75.726204,45.400288<br/>
-Percentile: ]]></description>
+Percentile: red]]></description>
 				<Point>
 					<coordinates>-75.726204,45.400288,0.0</coordinates>
 				</Point>
@@ -5228,7 +5228,7 @@ Enrolment: 375<br/>
 % Full: 88.54<br/>
 Opened: 1964<br/>
 geometry: -75.64608,45.383999<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.64608,45.383999,0.0</coordinates>
 				</Point>
@@ -5299,7 +5299,7 @@ Enrolment: 515<br/>
 % Full: 111.68<br/>
 Opened: 1898<br/>
 geometry: -75.685287,45.406471<br/>
-Percentile: ]]></description>
+Percentile: green]]></description>
 				<Point>
 					<coordinates>-75.685287,45.406471,0.0</coordinates>
 				</Point>
@@ -5370,7 +5370,7 @@ Enrolment: 392<br/>
 % Full: 62.2<br/>
 Opened: <br/>
 geometry: -75.537849,45.449806<br/>
-Percentile: ]]></description>
+Percentile: yellow]]></description>
 				<Point>
 					<coordinates>-75.537849,45.449806,0.0</coordinates>
 				</Point>
@@ -5441,7 +5441,7 @@ Enrolment: 164<br/>
 % Full: 66.2<br/>
 Opened: <br/>
 geometry: -75.674561,45.367645<br/>
-Percentile: ]]></description>
+Percentile: red]]></description>
 				<Point>
 					<coordinates>-75.674561,45.367645,0.0</coordinates>
 				</Point>
@@ -5512,7 +5512,7 @@ Enrolment: 420<br/>
 % Full: 63.2<br/>
 Opened: <br/>
 geometry: -75.570892,45.434811<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.570892,45.434811,0.0</coordinates>
 				</Point>
@@ -5583,7 +5583,7 @@ Enrolment: 95<br/>
 % Full: 36.7<br/>
 Opened: <br/>
 geometry: -75.790962,45.342236<br/>
-Percentile: ]]></description>
+Percentile: red]]></description>
 				<Point>
 					<coordinates>-75.790962,45.342236,0.0</coordinates>
 				</Point>
@@ -5654,7 +5654,7 @@ Enrolment: 210<br/>
 % Full: 49<br/>
 Opened: <br/>
 geometry: -75.744614,45.395142<br/>
-Percentile: ]]></description>
+Percentile: yellow]]></description>
 				<Point>
 					<coordinates>-75.744614,45.395142,0.0</coordinates>
 				</Point>
@@ -5725,7 +5725,7 @@ Enrolment: 355<br/>
 % Full: 65.4<br/>
 Opened: <br/>
 geometry: -75.761742,45.28088<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.761742,45.28088,0.0</coordinates>
 				</Point>
@@ -5796,7 +5796,7 @@ Enrolment: 278<br/>
 % Full: 115.2<br/>
 Opened: <br/>
 geometry: -75.823669,45.347755<br/>
-Percentile: ]]></description>
+Percentile: yellow]]></description>
 				<Point>
 					<coordinates>-75.823669,45.347755,0.0</coordinates>
 				</Point>
@@ -5867,7 +5867,7 @@ Enrolment: 160<br/>
 % Full: 51.95<br/>
 Opened: <br/>
 geometry: -75.788155,45.336807<br/>
-Percentile: ]]></description>
+Percentile: yellow]]></description>
 				<Point>
 					<coordinates>-75.788155,45.336807,0.0</coordinates>
 				</Point>
@@ -6009,7 +6009,7 @@ Enrolment: 473<br/>
 % Full: 75.92<br/>
 Opened: <br/>
 geometry: -75.767113,45.268997<br/>
-Percentile: ]]></description>
+Percentile: yellow-orange]]></description>
 				<Point>
 					<coordinates>-75.767113,45.268997,0.0</coordinates>
 				</Point>
@@ -6080,7 +6080,7 @@ Enrolment: 252<br/>
 % Full: 58.29<br/>
 Opened: <br/>
 geometry: -75.528412,45.483425<br/>
-Percentile: ]]></description>
+Percentile: yellow]]></description>
 				<Point>
 					<coordinates>-75.528412,45.483425,0.0</coordinates>
 				</Point>
@@ -6222,7 +6222,7 @@ Enrolment: 362<br/>
 % Full: 59.17<br/>
 Opened: <br/>
 geometry: -75.644035,45.438259<br/>
-Percentile: ]]></description>
+Percentile: red]]></description>
 				<Point>
 					<coordinates>-75.644035,45.438259,0.0</coordinates>
 				</Point>
@@ -6293,7 +6293,7 @@ Enrolment: 174<br/>
 % Full: 51.91<br/>
 Opened: 1966<br/>
 geometry: -75.790512,45.366558<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.790512,45.366558,0.0</coordinates>
 				</Point>
@@ -6435,7 +6435,7 @@ Enrolment: 334<br/>
 % Full: 68.49<br/>
 Opened: <br/>
 geometry: -75.604713,45.457119<br/>
-Percentile: ]]></description>
+Percentile: orange]]></description>
 				<Point>
 					<coordinates>-75.604713,45.457119,0.0</coordinates>
 				</Point>
@@ -6506,7 +6506,7 @@ Enrolment: 128<br/>
 % Full: 66.16<br/>
 Opened: <br/>
 geometry: -75.674995,45.420292<br/>
-Percentile: ]]></description>
+Percentile: To protect against disclosure of personal information associated with individual students results for this school are not being provided.]]></description>
 				<Point>
 					<coordinates>-75.674995,45.420292,0.0</coordinates>
 				</Point>
@@ -6577,7 +6577,7 @@ Enrolment: 257<br/>
 % Full: 40.22<br/>
 Opened: <br/>
 geometry: -75.728394,45.354122<br/>
-Percentile: ]]></description>
+Percentile: green]]></description>
 				<Point>
 					<coordinates>-75.728394,45.354122,0.0</coordinates>
 				</Point>
@@ -6719,7 +6719,7 @@ Enrolment: 223<br/>
 % Full: 57.3<br/>
 Opened: 1922<br/>
 geometry: -75.682945,45.432011<br/>
-Percentile: ]]></description>
+Percentile: varies widely by year]]></description>
 				<Point>
 					<coordinates>-75.682945,45.432011,0.0</coordinates>
 				</Point>
